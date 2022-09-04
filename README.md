@@ -1,3 +1,5 @@
 # DEMO 2 
 
-Some text
+J'ai modifié le text
+
+check the update
